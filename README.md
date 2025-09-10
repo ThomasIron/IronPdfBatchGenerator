@@ -74,7 +74,7 @@ PassengerName,FlightNumber,DepartureAirport,ArrivalAirport,FlightDate,DepartureT
 Edit these values in `Program.Main` (or make them CLI args as needed):
 
 ```csharp
-string csvFilePath = @"C:\Users\J-Gonzalez\Downloads\flight_records.csv";
+string csvFilePath = "\flight_records.csv";
 string outputDirectory = "OutputTickets";
 ```
 
